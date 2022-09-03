@@ -12,8 +12,11 @@ Every project needs to have a high quality README file that explains the apps fe
 This is a command-line application that runs with Node.js that dynamically generates a README.md file based on input about your project. 
 ## Link to the App
 * ['README-Generator - Github'](https://github.com/KevinNg2/README-Generator)
+
+Video Walkthrough
 * ['README-Generator- Demo](https://drive.google.com/file/d/1hd2DMp9wEENYoGzPqM9zfciesO74mavF/view)
 
+GIF showing the functionality of the application
 ![demogif](./Develop/files/README%20Generator%20using%20Node.js.gif)
 
 
