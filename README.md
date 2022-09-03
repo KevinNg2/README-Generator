@@ -14,7 +14,7 @@ This is a command-line application that runs with Node.js that dynamically gener
 * ['README-Generator - Github'](https://github.com/KevinNg2/README-Generator)
 * ['README-Generator- Demo](https://drive.google.com/file/d/1hd2DMp9wEENYoGzPqM9zfciesO74mavF/view)
 
-![demogif](./Develop/files/ReadMe%20Generator%20using%20Node.js.gif)
+![demogif](./Develop/files/README%20Generator%20using%20Node.js.gif)
 
 
 
