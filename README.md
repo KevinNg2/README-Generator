@@ -13,10 +13,11 @@ This is a command-line application that runs with Node.js that dynamically gener
 ## Link to the App
 * ['README-Generator - Github'](https://github.com/KevinNg2/README-Generator)
 
-Video Walkthrough
-* ['README-Generator- Demo](https://drive.google.com/file/d/1hd2DMp9wEENYoGzPqM9zfciesO74mavF/view)
+* ['README-Generator- Video Walkthrough](https://drive.google.com/file/d/1hd2DMp9wEENYoGzPqM9zfciesO74mavF/view)
 
 GIF showing the functionality of the application
+
+
 ![demogif](./Develop/files/README%20Generator%20using%20Node.js.gif)
 
 
