@@ -9,7 +9,8 @@ Every project needs to have a high quality README file that explains the apps fe
 - How to Report Issues
 - How to make Contributions so that other developers are more likely to use and contribute to the success of the project.
 
-This is a command-line application that runs with Node.js that dynamically generates a README.md file based on input about your project. 
+This is a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package. The application will be invoked by using node index.js.
+
 ## Link to the App
 * ['README-Generator - Github'](https://github.com/KevinNg2/README-Generator)
 
@@ -49,7 +50,7 @@ When you run the command node index.js, the application uses the inquirer packag
 
 The application will add your responses to your Github profile. Then the application will generate markdown and a table of contents for the README based on the responses to the Inquirer prompts. The README will also include badges for your GitHub Repo.
 
-Finally, fs.writeFile is used to generate your project's README.md file. 
+fs.writeFile is used to generate your project's README.md file. 
 
 ## License
 This application is covered by the ISC License
@@ -75,7 +76,7 @@ In order to test the application you will need a text editor and your terminal o
 
 Inquirer will prompt you for your inputs via command line.
 
-The application will start by running node index.js in the command line. 
+The application will begin by using node index.js in the command line. 
 
 Answer the prompts in the command line to generate the README.
 
