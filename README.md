@@ -14,7 +14,7 @@ This is a command-line application that dynamically generates a professional REA
 ## Link to the App
 * ['README-Generator - Github'](https://github.com/KevinNg2/README-Generator)
 
-*['Generated Sample README'](https://github.com/KevinNg2/README-Generator/blob/main/genREADME.md)
+* ['Generated Sample README'](https://github.com/KevinNg2/README-Generator/blob/main/genREADME.md)
 
 * ['README-Generator- Video Walkthrough](https://drive.google.com/file/d/1hd2DMp9wEENYoGzPqM9zfciesO74mavF/view)
 
